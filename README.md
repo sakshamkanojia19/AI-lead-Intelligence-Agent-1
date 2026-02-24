@@ -26,3 +26,6 @@ This tool reduces research time and gives you a consistent, structured output fo
 - SEO agencies and growth teams doing outbound.
 - B2B SaaS teams building a pipeline.
 - SDRs and founders who need fast, repeatable research.
+
+
+Build By Saksham Kanojia 
